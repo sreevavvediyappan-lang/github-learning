@@ -4,3 +4,4 @@
 <b>Hello World</b></br>
 <i>My Personal Information</i></br>
 <del>i have entered a wrong text</del></br>
+<hr>
