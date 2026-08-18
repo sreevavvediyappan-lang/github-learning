@@ -32,5 +32,5 @@
   <summary>
     Click for hidden contents
   </summary>
-  Samyuktha is a CatGirl
+  Wings of Fire is my Favourite Book
 </details>
