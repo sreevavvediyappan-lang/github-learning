@@ -39,5 +39,8 @@
 [git-hub]("https://github.com")<br>
 [git-hub]("https://github.com" "Click Title")
 <hr>
-<b> Highlighting text</b>
+<b> Highlighting text</b><br>
 <mark>Rose is my favorite flower</mark>
+<hr>
+<b>Create Link</b>
+<a href="www.google.com">Click here to go to google</a>
