@@ -48,3 +48,10 @@
 <b>Emoji</b>
 🌇
 🙂
+| Name   | Age |  Roll No |
+|:-------|:---:|---------:|
+| Sreeva | 19  | E24CG036 |
+| Sam    | 20  | E24CG033 |
+| Sharmi | 21  | E24CG034 |
+| Rithik | 19  | E24CG030 |
+| Kavi   | 20  | E24CG012 |
