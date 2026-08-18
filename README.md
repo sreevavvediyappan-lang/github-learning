@@ -19,13 +19,13 @@
 [!flower image][https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ10fnb7mmG-QbDaV5tC31kt2xMp-LCxt76Kr_KgmWxeQ&s=10]
 <hr>
 <b>Table</b><br>
-| Name   | Age |  Roll No |
-|:-------|:---:|---------:|
-| Sreeva | 19  | E24CG036 |
-| Sam    | 20  | E24CG033 |
-| Sharmi | 21  | E24CG034 |
-| Rithik | 19  | E24CG030 |
-| Kavi   | 20  | E24CG012 |
+| Name   | Age |  Roll No |<br>
+|:-------|:---:|---------:|<br>
+| Sreeva | 19  | E24CG036 |<br>
+| Sam    | 20  | E24CG033 |<br>
+| Sharmi | 21  | E24CG034 |<br>
+| Rithik | 19  | E24CG030 |<br>
+| Kavi   | 20  | E24CG012 |<br>
 <hr>
 <b>Creating a Drop Down</b>
 <details>
@@ -48,10 +48,4 @@
 <b>Emoji</b>
 🌇
 🙂
-| Name   | Age |  Roll No |
-|:-------|:---:|---------:|
-| Sreeva | 19  | E24CG036 |
-| Sam    | 20  | E24CG033 |
-| Sharmi | 21  | E24CG034 |
-| Rithik | 19  | E24CG030 |
-| Kavi   | 20  | E24CG012 |
+ 
