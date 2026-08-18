@@ -12,9 +12,9 @@
 *Item-2<br>
 1.Item-3<br>
 2.Item-4<br>
--[]music<br>
--[ x ]Story Reading<br>
--[ x ]Movies<br>
+- []music<br>
+- []Story Reading<br>
+- []Movies<br>
 <hr>
 [!flower image][https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ10fnb7mmG-QbDaV5tC31kt2xMp-LCxt76Kr_KgmWxeQ&s=10]
 <hr>
