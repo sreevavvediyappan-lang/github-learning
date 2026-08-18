@@ -38,3 +38,6 @@
 <b>Create Hyper Link</b>
 [git-hub]("https://github.com")<br>
 [git-hub]("https://github.com" "Click Title")
+<hr>
+<b> Highlighting text</b>
+<mark>Rose is my favorite flower</mark>
