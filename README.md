@@ -8,7 +8,7 @@
 <p align ="center"> <b>Personal Information</b><br>
   I'm Sreeva.Currently studying Bsc.CS.CGS Final Year at SDNBV College.I'm 19 years old.</p>
 <hr>
--[]
+-[]<br>
 *Item-1<br>
 *Item-2<br>
 1.Item-3<br>
@@ -16,3 +16,5 @@
 -[]music<br>
 -[]Story Reading<br>
 -[*]Movies<br>
+<hr>
+[!flower image][https://www.facebook.com/BeautifulFlowerspk/]
