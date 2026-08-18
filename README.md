@@ -20,7 +20,7 @@
 <hr>
 <b>Table</b><br>
 |Name   |Age |Roll No|<br>
-|----
+|-------|----|-------|
 |Sreeva |19  |E24CG036|<br>
 |sam    |20  |E24cg033|<br>
 |sharmi |21  |E24CG34|<br>
