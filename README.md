@@ -19,7 +19,7 @@
 <hr>
 [!flower image][https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ10fnb7mmG-QbDaV5tC31kt2xMp-LCxt76Kr_KgmWxeQ&s=10]
 <hr>
-<b>Table</b>
+<b>Table</b><br>
 |Name|Age|Roll No|<br>
 |Sreeva|19|E24CG036|<br>
 |sam|20|E24cg033|<br>
@@ -27,3 +27,10 @@
 |Rithika|19|E24CG030|<br>
 |Kavi|20|E24CG012|<br>
 <hr>
+<b>Creating a Drop Down</b>
+<details>
+  <summary>
+    Click for hidden contents
+  </summary>
+  Samyuktha is a CatGirl
+</details>
