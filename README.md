@@ -20,9 +20,9 @@
 [!flower image][https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ10fnb7mmG-QbDaV5tC31kt2xMp-LCxt76Kr_KgmWxeQ&s=10]
 <hr>
 <b>Table</b>
-|Name|Age|Roll No|
-|Sreeva|19|E24CG036|
-|sam|20|E24cg033|
-|sharmi|21|E24CG34|
-|Rithika|19|E24CG030|
-|Kavi|20|E24CG012|
+|Name|Age|Roll No|<br>
+|Sreeva|19|E24CG036|<br>
+|sam|20|E24cg033|<br>
+|sharmi|21|E24CG34|<br>
+|Rithika|19|E24CG030|<br>
+|Kavi|20|E24CG012|<br>
