@@ -8,7 +8,6 @@
 <p align ="center"> <b>Personal Information</b><br>
   I'm Sreeva.Currently studying Bsc.CS.CGS Final Year at SDNBV College.I'm 19 years old.</p>
 <hr>
--[]<br>
 *Item-1<br>
 *Item-2<br>
 1.Item-3<br>
@@ -44,3 +43,7 @@
 <hr>
 <b>Create Link</b>
 <a href="www.google.com">Click here to go to google</a>
+<hr>
+<b>Emoji</b>
+🌇
+🙂
