@@ -5,8 +5,14 @@
 <i>My Personal Information</i></br>
 <del>i have entered a wrong text</del></br>
 <hr>
-<p align ="center"> ## <b>Personal Information</b><br>
+<p align ="center"> <b>Personal Information</b><br>
   I'm Sreeva.Currently studying Bsc.CS.CGS Final Year at SDNBV College.I'm 19 years old.</p>
 <hr>
-
-
+-[]
+*Item-1<br>
+*Item-2<br>
+1.Item-3<br>
+2.Item-4<br>
+-[]music<br>
+-[]Story Reading<br>
+-[*]Movies<br>
